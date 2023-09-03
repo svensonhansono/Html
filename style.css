@@ -96,10 +96,10 @@ section img#moon
 {
 mix-blend-mode: screen;
 }
-section img#3
+section img#7
 {
 mix-blend-mode: screen;
-z-index: 10;
+z-index: 10;z
 }
 section img#mountains_front
 {
@@ -137,6 +137,11 @@ section img#mountains_front
     color:#fff;
 }
 .sec p{
+    font-size:1.2em;
+    color:#fff;
+}
+
+.sec h3{
     font-size:1.2em;
     color:#fff;
 }
